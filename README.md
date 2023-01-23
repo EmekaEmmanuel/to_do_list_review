@@ -53,7 +53,7 @@ Built using webpack and served by a webpack dev server.
 
 ## Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://emekaemmanuel.github.io/to_do_daily/) 
+- [Live Demo Link](https://emekaemmanuel.github.io/to_do_list_review/) 
 
 ## Project Presentation <a name="project-presentation"></a>
 
@@ -84,7 +84,7 @@ Built using webpack and served by a webpack dev server.
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://github.com/EmekaEmmanuel/to_do_daily.git
+  git clone https://github.com/EmekaEmmanuel/to_do_list_review.git
 
 ### Install
   -  [Git](https://git-scm.com/downloads)
@@ -120,7 +120,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/to_do_daily/issues).
+Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/to_do_list_review/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
