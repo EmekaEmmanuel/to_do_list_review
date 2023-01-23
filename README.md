@@ -30,7 +30,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license) 
 
-# 📖 [to_do_daily ] <a name="about-project"></a>
+# 📖 [to_do_list_review ] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
